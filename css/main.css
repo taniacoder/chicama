@@ -15,7 +15,7 @@
 	height: 50px;
 	text-align: center;
 	padding-top: 15px;
-	margin-top: 50px;
+	margin-top: 30px;
 	font-size: 14px;
 	display: block;
 	text-decoration: none;
@@ -24,6 +24,12 @@
 .logo {
 	width: 450px;
 	padding-top:60px;
+}
+.txt-c {
+	text-align: center;
+}
+header nav {
+	float: right;
 }
 header nav ul{
 	list-style: none;
